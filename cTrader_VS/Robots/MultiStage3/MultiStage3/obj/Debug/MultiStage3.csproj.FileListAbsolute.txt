@@ -1,0 +1,7 @@
+C:\Users\R\Documents\cAlgo\Sources\Robots\MultiStage3\MultiStage3\bin\Debug\MultiStage3.dll
+C:\Users\R\Documents\cAlgo\Sources\Robots\MultiStage3\MultiStage3\bin\Debug\MultiStage3.pdb
+C:\Users\R\Documents\cAlgo\Sources\Robots\MultiStage3\MultiStage3\bin\Debug\cAlgo.API.dll
+C:\Users\R\Documents\cAlgo\Sources\Robots\MultiStage3\MultiStage3\bin\Debug\cAlgo.API.xml
+C:\Users\R\Documents\cAlgo\Sources\Robots\MultiStage3\MultiStage3\obj\Debug\MultiStage3.csprojResolveAssemblyReference.cache
+C:\Users\R\Documents\cAlgo\Sources\Robots\MultiStage3\MultiStage3\obj\Debug\MultiStage3.dll
+C:\Users\R\Documents\cAlgo\Sources\Robots\MultiStage3\MultiStage3\obj\Debug\MultiStage3.pdb

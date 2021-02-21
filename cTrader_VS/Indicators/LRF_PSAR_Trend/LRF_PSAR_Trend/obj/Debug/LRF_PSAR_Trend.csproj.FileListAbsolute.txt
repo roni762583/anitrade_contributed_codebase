@@ -1,0 +1,9 @@
+C:\Users\R\Documents\cAlgo\Sources\Indicators\LRF_PSAR_Trend\LRF_PSAR_Trend\bin\Debug\LRF_PSAR_Trend.dll
+C:\Users\R\Documents\cAlgo\Sources\Indicators\LRF_PSAR_Trend\LRF_PSAR_Trend\bin\Debug\LRF_PSAR_Trend.pdb
+C:\Users\R\Documents\cAlgo\Sources\Indicators\LRF_PSAR_Trend\LRF_PSAR_Trend\bin\Debug\cAlgo.API.dll
+C:\Users\R\Documents\cAlgo\Sources\Indicators\LRF_PSAR_Trend\LRF_PSAR_Trend\bin\Debug\_Difference.dll
+C:\Users\R\Documents\cAlgo\Sources\Indicators\LRF_PSAR_Trend\LRF_PSAR_Trend\bin\Debug\_Difference.pdb
+C:\Users\R\Documents\cAlgo\Sources\Indicators\LRF_PSAR_Trend\LRF_PSAR_Trend\bin\Debug\cAlgo.API.xml
+C:\Users\R\Documents\cAlgo\Sources\Indicators\LRF_PSAR_Trend\LRF_PSAR_Trend\obj\Debug\LRF_PSAR_Trend.csprojResolveAssemblyReference.cache
+C:\Users\R\Documents\cAlgo\Sources\Indicators\LRF_PSAR_Trend\LRF_PSAR_Trend\obj\Debug\LRF_PSAR_Trend.dll
+C:\Users\R\Documents\cAlgo\Sources\Indicators\LRF_PSAR_Trend\LRF_PSAR_Trend\obj\Debug\LRF_PSAR_Trend.pdb
