@@ -78,4 +78,4 @@ Certainly! Here's a comprehensive list of the indicators from the specified GitH
 
 10. **LRF_PSAR_Trend** Combines Linear Regression Filter with Parabolic SAR to identify trend direction and potential reversal.
 
-11. **LRSwBB_signal** Generates signals based on 
+11. **LRSwBB_signal** Generates signals based on Linear Regression Slope with Bollinger Bands - detect extreme trend slope
